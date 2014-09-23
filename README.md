@@ -2,6 +2,7 @@ JBossEAP6
 =========
 
 JVM_OPTS
+
   -Djboss.home.dir=/d2/java/jboss-eap-6.2
   -Djboss.server.default.config=standalone.xml                    or -c standalone.xml
   -Djboss.server.base.dir=/d2/java/jboss-eap-6.2/asp264005
